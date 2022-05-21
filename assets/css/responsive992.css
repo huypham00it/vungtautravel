@@ -1,0 +1,27 @@
+@media screen and (max-width: 62em) {
+    .grid-m-col-4 {
+        width: 33.33333%;
+    }
+    .grid-m-col-6 {
+        width: 50%;
+    }
+    .grid-m-col-4 {
+        width: 33.33333%;
+    }
+    /* Begin: Header */
+    .nav-list {
+        max-width: calc(100% - 20px);
+    }
+    .nav-link {
+        padding: 1rem 1.5rem;
+    }
+    /* End: Header */
+    /* Begin: Banner */
+    .banner-image {
+        width: 80%;
+    }
+    .banner-image__text {
+        width: 70%;
+    }
+    /* End: Banner */
+}
